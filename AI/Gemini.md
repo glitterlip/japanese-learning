@@ -27,3 +27,7 @@
 **缺点是依旧要翻墙,国内被禁止访问,只能说日语和英语,中文会降智成🦍**
 
 优点也很明显,chatgpt api收费,这个免费,可以集成到自己的网站,做个`websocket relay`就可以
+
+
+[免翻墙](https://tonihon.com/study) , 登录之后点右上角即可
+<img width="510" alt="Screenshot 2025-03-13 at 23 18 31" src="https://github.com/user-attachments/assets/ed3eab5b-3f54-44db-94da-34142ab67021" />
