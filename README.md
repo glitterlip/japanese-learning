@@ -49,3 +49,12 @@ Japanese Learning Resource 收集的日语学习资源.
 [Ojad](Speaking/OJAD.md): 在线查询词汇发音.
 
 [VRChat](Speaking/VRChat.md): 用手机在游戏里和真人交流
+
+
+# 我的
+
+小程序: 一起学习日语
+
+![二维码](./src/images/mp.jpg)
+
+网站: [一起学日语](https://tonihon.com)
