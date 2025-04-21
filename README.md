@@ -8,7 +8,7 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [豆包](AI/豆包.md): 无需翻墙,但是只能问问单词,语法,不支持日语对话.
 
-[Gemini](AI/Gemini.md): 只有手机端,用着还行.第三方的转发项目很多.
+[Gemini](AI/Gemini.md): `gemini-2.5-pro-preview-03-25` 很厉害, 可以用日语对话,但是不可以说中文😭.你如果英语好的话,可以同时学两门外语.
 
 [Cici](AI/Cici.md): 豆包的海外版,支持日语对话.
 
@@ -49,7 +49,6 @@ Japanese Learning Resource 收集的日语学习资源.
 [Ojad](Speaking/OJAD.md): 在线查询词汇发音.
 
 [VRChat](Speaking/VRChat.md): 用手机在游戏里和真人交流
-
 
 # 我的
 
