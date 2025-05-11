@@ -28,15 +28,23 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [教材](Course/textbook.md): 推荐标准日本语(标日),学的人多,教的人也多
 
-## 单词
+## 背单词
 
 [Anki](Vocabulary/识日.md): 上手有点难度,但是很好用
 
-[识日](Vocabulary/识日.md): 小红书上大家都在推荐
+[识日](Vocabulary/识日.md): 小红书上大家都在推荐,设计的很好,例句和联想词不错,利用AI生成的记忆技巧也还行
 
-## 词典
+沪江开心词场: 用着还可以,主要是可以加入小组一起背单词,还可以和人PK,加深记忆挺好
 
-[欧路词典](Dictionary/欧路词典.md): 手机推荐这个
+## 词典/翻译
+
+[欧路词典](Dictionary/欧路词典.md): 手机电脑段都支持,安卓端免费,查词很方便,状态栏可以快速查词,支持mdx词库,mac收费
+
+[EasyDict](Dictionary/easydict.md): Mac推荐这个免费的,这个主要可以自定义其他第三方服务
+
+[Pot](Dictionary/pot.md): windows推荐这个
+
+[Bob](Dictionary/Bob.md): mac的翻译工具
 
 ## 阅读
 
@@ -44,9 +52,11 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [NHK Easy News](/Reading/NHKEasyNews.md): 新手推荐,NHK新闻的简单版
 
+[NHK Eaiser](/Reading/NHKEasier.md): 收录了nhk easy news 2017年到现在的所有文章,可以下载epub格式电子书
+
 ## 口语
 
-[Ojad](Speaking/OJAD.md): 在线查询词汇发音.
+[Ojad](Speaking/OJAD.md): 在线查询词汇发音,主要是用用来查看形容词动词变形后的发音.
 
 [VRChat](Speaking/VRChat.md): 用手机在游戏里和真人交流
 
