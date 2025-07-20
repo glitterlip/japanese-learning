@@ -30,7 +30,7 @@ Japanese Learning Resource 收集的日语学习资源.
 
 ## 背单词
 
-[Anki](Vocabulary/识日.md): 上手有点难度,但是很好用
+[Anki](Vocabulary/Anki.md): 上手有点难度,但是很好用
 
 [识日](Vocabulary/识日.md): 小红书上大家都在推荐,设计的很好,例句和联想词不错,利用AI生成的记忆技巧也还行
 
