@@ -30,6 +30,8 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [CallAnnie](AI/CallAnnie.md): 专门用AI学习语言的APP,有免费的基础版和收费订阅.(最近一直连接失败)
 
+## 兴趣是最好的老师
+[marumaru-x] 唱歌学日语,有歌曲mv,还有中日双语歌词,日语歌词还带假名
 ## 课程
 
 [圆圆的日语教室](Course/圆圆的日语教室.md): 标日初级+中级,B站标日上免费,强烈推荐
