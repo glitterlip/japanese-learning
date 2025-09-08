@@ -5,5 +5,5 @@
 
 [地址](https://www.marumaru-x.com/japanese-song/play-e4oy54l8n3): https://www.marumaru-x.com/japanese-song/play-e4oy54l8n3
 
-![图1](./src/images/articles/lyric1.png)
-![图2](./src/images/articles/lyric2.png)
+![图1](../src/images/articles/lyric1.png)
+![图2](../src/images/articles/lyric2.png)
