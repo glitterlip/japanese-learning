@@ -32,6 +32,7 @@ Japanese Learning Resource 收集的日语学习资源.
 
 ## 兴趣是最好的老师
 [marumaru-x](Hobby/marumaru.md) 唱歌学日语,有歌曲mv,还有中日双语歌词,日语歌词还带假名
+
 [机翻轻小说](Hobby/novel.md) 机翻的轻小说,有些还不错,可以练练阅读
 
 ## 课程
@@ -67,6 +68,8 @@ Japanese Learning Resource 收集的日语学习资源.
 [Bob](Dictionary/Bob.md): mac的翻译工具
 
 ## 阅读
+
+[note.com](/Reading/Note.md): 这个网站里面的文章很不错,不像新闻那么严肃,也没小说那么长,都是普通人自己写的文章然后投稿的,涵盖的范围也很广,图文并茂.
 
 [青空文库](/Reading/Aozora.md): 版权过期的日语文学作品
 
