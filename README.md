@@ -37,6 +37,9 @@ Japanese Learning Resource 收集的日语学习资源.
 
 ## 课程
 
+这里只推荐成体系的课程,太初级和零碎知识点那种就不推荐了,看完就忘纯属浪费时间.另外邪修也没有哈,动不动3个月过N1,玩乙女过N1,甚至看A片过N1这种建议去xhs,b站自己搜,里面说的比我详细.
+
+
 [圆圆的日语教室](Course/圆圆的日语教室.md): 标日初级+中级,B站标日上免费,强烈推荐
 
 [教日语的阿飞老师](Course/教日语的阿飞老师.md): 标日初级+中级免费
@@ -48,7 +51,6 @@ Japanese Learning Resource 收集的日语学习资源.
 [出口仁](Course/出口仁.md): B站免费,大家的日本语+N1-N5语法
 
 [教材](Course/textbook.md): 推荐标准日本语(标日),学的人多,教的人也多
-
 ## 背单词
 
 [Anki及卡组](Vocabulary/Anki.md): 上手有点难度,但是很好用
@@ -76,12 +78,15 @@ Japanese Learning Resource 收集的日语学习资源.
 [NHK Easy News](/Reading/NHKEasyNews.md): 新手推荐,NHK新闻的简单版
 
 [NHK Eaiser](/Reading/NHKEasier.md): 收录了nhk easy news 2017年到现在的所有文章,可以下载epub格式电子书
-
+## 工作
+WIP
+## 社群
+WIP
 ## 口语
 
 [Ojad](Speaking/OJAD.md): 在线查询词汇发音,主要是用用来查看形容词动词变形后的发音.
 
-[VRChat](Speaking/VRChat.md): 用手机在游戏里和真人交流
+[VRChat](Speaking/VRChat.md): 用手机/电脑/VR在游戏里和真人交流
 
 ## 考试
 [JLPT](Exam/jlpt.md): JLPT考试的相关信息和资料
