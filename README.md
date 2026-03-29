@@ -37,7 +37,6 @@ Japanese Learning Resource 收集的日语学习资源.
 
 这里只推荐成体系的课程,太初级和零碎知识点那种就不推荐了,看完就忘纯属浪费时间.另外邪修也没有哈,动不动3个月过N1,玩乙女过N1,甚至看A片过N1这种建议去xhs,b站自己搜,里面说的比我详细.
 
-
 [圆圆的日语教室](Course/圆圆的日语教室.md): 标日初级+中级,B站标日上免费,强烈推荐
 
 [教日语的阿飞老师](Course/教日语的阿飞老师.md): 标日初级+中级免费
@@ -49,6 +48,33 @@ Japanese Learning Resource 收集的日语学习资源.
 [出口仁](Course/出口仁.md): B站免费,大家的日本语+N1-N5语法
 
 [教材](Course/textbook.md): 推荐标准日本语(标日),学的人多,教的人也多
+
+### 推荐几个youtube的日语学习频道,内容也不错,可以都看看，选择自己喜欢的老师和风格
+
+[日本語の森](https://www.youtube.com/@nihongonomori2013)
+
+[あかね的日本語教室](https://www.youtube.com/@Akane-JapaneseClass)
+
+[三本塾 -Sambon Juku-](https://www.youtube.com/@sambonjuku)
+
+[Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
+
+[Teppei](https://www.youtube.com/@nihongoconteppei)
+
+[Real Real Japan](https://www.youtube.com/@RealRealJapan)
+
+[Mochi real Japanese](https://www.youtube.com/@mochirealjapanese3430)
+
+[That Japanese Man Yuta](https://www.youtube.com/@ThatJapaneseManYuta)
+
+[Daily Japanese with Naoko](https://www.youtube.com/@DailyJapanese)
+
+[Japanese with Shun](https://www.youtube.com/@JapanesewithShun)
+
+[Reina Scully](https://www.youtube.com/@reinascully)
+
+[Yuka老師的日本語教室](https://www.youtube.com/@yuka_japaneseteacher)
+
 ## 背单词
 
 [Anki及卡组](Vocabulary/Anki.md): 上手有点难度,但是很好用
