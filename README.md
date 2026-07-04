@@ -14,6 +14,9 @@ Japanese Learning Resource 收集的日语学习资源.
 [DeepSeek](AI/DeepSeek.md): emm开源模型里面算是挺好的，只是V4一直没发布，感觉有点落后了，而且也没有语音。
 
 ## AI学习工具
+
+[一起学日语](AI/App.md): 推荐下自己vibe coding的日语学习app，支持AI对话，学日语英语都可以，带实时转录和会话记录。app里的每个句子都支持假名和罗马音，点击查词，语法解析，朗读跟读。随时随地呼叫AI助手答疑。标日初级和中级的课文语法词汇。Anki背单词，podcast听力带字幕，youtube视频带字幕。句子语法分析，口语跟读评分。mdx词典本地+网络查词。JLPT历年真题。NHK Easy News和青空文库阅读。
+
 [Hanabira](AI/hanabira.md): 开源免费的网站,使用下来体验最好的一个，比很多收费的都好用,功能也期权。但他面相的是韩语和越南语英语人群，输出结果是**英文**的。
 
 [VocabMeld](AI/vocabmeld.md): 开源免费的浏览器插件,需要你有自己的api key。打开网页后会自动替换网页里的词汇，让你沉浸式学习(比如你在看网页，他会把某个词换成日语，基于语境你大概会知道是什么意思，如果不知道可以点击查看翻译，这样记忆感觉比硬背单词效果好)。
@@ -60,6 +63,10 @@ Japanese Learning Resource 收集的日语学习资源.
 [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
 
 [Teppei](https://www.youtube.com/@nihongoconteppei)
+
+[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa)
+
+[Kaname Naito](https://www.youtube.com/@kanamenaito)
 
 [Real Real Japan](https://www.youtube.com/@RealRealJapan)
 
