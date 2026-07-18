@@ -1,4 +1,7 @@
 # japanese-learning
+[一起学日语](AI/App.md): 推荐下自己vibe coding的日语学习app，支持AI对话，带实时转录和会话记录。app里的每个句子都支持假名和罗马音，点击查词，语法解析，朗读跟读。随时随地呼叫AI助手答疑。标日初级和中级的课文语法词汇。Anki背单词，podcast听力带字幕。句子语法分析，口语跟读评分。mdx词典本地+网络查词。JLPT历年真题。NHK Easy News和青空文库阅读。
+
+https://github.com/user-attachments/assets/9abd1bb9-a03e-48c9-b49e-c6b7f5498f77
 
 Japanese Learning Resource 收集的日语学习资源.
 
@@ -15,7 +18,6 @@ Japanese Learning Resource 收集的日语学习资源.
 
 ## AI学习工具
 
-[一起学日语](AI/App.md): 推荐下自己vibe coding的日语学习app，支持AI对话，学日语英语都可以，带实时转录和会话记录。app里的每个句子都支持假名和罗马音，点击查词，语法解析，朗读跟读。随时随地呼叫AI助手答疑。标日初级和中级的课文语法词汇。Anki背单词，podcast听力带字幕，youtube视频带字幕。句子语法分析，口语跟读评分。mdx词典本地+网络查词。JLPT历年真题。NHK Easy News和青空文库阅读。
 
 [Hanabira](AI/hanabira.md): 开源免费的网站,使用下来体验最好的一个，比很多收费的都好用,功能也期权。但他面相的是韩语和越南语英语人群，输出结果是**英文**的。
 
