@@ -29,6 +29,8 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [Mirra](AI/Mirra.md): 收费。手机端影子跟读神器,导入后视频或podcast后会自动生成字幕，可以练习跟读，可以跟AI提问题，点击句子里的单词还可以查词。
 
+[Lingua](AI/lingua.md):大佬真的牛逼,播放器,支持字幕,分词,支持AI翻译和句子语法讲解.界面感觉和mirra一模一样了,怎么做到的,我用opus 5.5都做不到这么像,这也太牛了,可能是把安装包逆向了?
+
 [CallAnnie](AI/CallAnnie.md): 专门用AI学习语言的APP,有免费的基础版和收费订阅.(最近一直连接失败)
 
 [Ries](AI/Ries.md): 这家现在好像转型了,现在在做文本语法检查纠正了?
