@@ -104,6 +104,8 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [Bob](Dictionary/Bob.md): mac的翻译工具
 
+[Tomoshi](Dictionary/Tomoshi.md): 自带词典数据的日语词典,全平台,核心查词离线免费,主打自他动词/近义辨析/中日反查,有划词扩展
+
 ## 阅读
 [捧读](/Reading/捧读.md): 收费。一个阅读器，还内置了浏览器。你可以导入epub读电子书，会帮你翻译，分析句子结构，词性，语法点，还可以朗读。
 
