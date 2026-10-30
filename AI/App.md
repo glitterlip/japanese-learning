@@ -4,7 +4,7 @@
 
 想法太多了，有的地方还有不足，但是整体已经可以使用了。
 
-下载地址:[github](https://github.com/glitterlip/japanese-learning/releases/tag/preview)
+下载地址:[github](https://github.com/glitterlip/japanese-learning/releases)
 
 放一些截图。
 

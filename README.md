@@ -15,7 +15,12 @@ JLPT历年真题带答案解析。
 
 NHK Easy News和青空文库阅读。
 
-https://github.com/user-attachments/assets/9abd1bb9-a03e-48c9-b49e-c6b7f5498f77
+
+
+https://github.com/user-attachments/assets/894cab79-b6de-46fa-ab76-0f4a78a07c9b
+
+
+
 
 Japanese Learning Resource 收集的日语学习资源.
 

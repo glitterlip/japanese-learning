@@ -1,4 +1,5 @@
 # Lingua
+[https://github.com/RzMY/Lingua](https://github.com/RzMY/Lingua)
 
 Lingua 是一个面向语言学习的播放器。它把音视频、字幕、逐词时间轴、注音、转写、词性、译文和词汇讲解放在同一条学习流程。支持日语、英语、西班牙语、法语、德语和韩语。
 
