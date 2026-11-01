@@ -72,6 +72,8 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [教材](Course/textbook.md): 推荐标准日本语(标日),学的人多,教的人也多
 
+[Nihongo to Japan](https://www.nihongotojapan.com/zh-cn/materials): 免费自学教材,191 课从五十音到 N5 以上,每课附练习,简体中文界面;核心内容免费无需注册(另有可选付费方案提供额外练习与 PDF,网站含广告)
+
 ### 推荐几个youtube的日语学习频道,内容也不错,可以都看看，选择自己喜欢的老师和风格
 
 [日本語の森](https://www.youtube.com/@nihongonomori2013)
