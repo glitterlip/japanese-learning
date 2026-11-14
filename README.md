@@ -51,6 +51,8 @@ Japanese Learning Resource 收集的日语学习资源.
 
 [Ries](AI/Ries.md): 这家现在好像转型了,现在在做文本语法检查纠正了?
 
+[GetYouTubeTranscript](https://getyoutubetranscript.com/): 未登录每天可免费用几次,更多需要注册或付费。粘贴 YouTube 链接就能拿到视频自带的日语字幕全文(带时间戳),可以复制或下载 SRT 拿去精听、跟读、做卡片,也能翻译成中文对照,还能让 AI 总结视频或者问问题。只读取视频已有的字幕,没字幕的视频不行。另外有 Chrome 插件,在 YouTube 页面旁边直接显示可搜索的字幕。
+
 ## 兴趣是最好的老师
 [marumaru-x](Hobby/marumaru.md) 唱歌学日语,有歌曲mv,还有中日双语歌词,日语歌词还带假名
 
